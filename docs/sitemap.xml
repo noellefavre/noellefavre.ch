@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://noellefavre.ch/noellefavre/</loc>
-    <lastmod>2017-09-10T21:09:28+02:00</lastmod>
+    <loc>http://noellefavre.ch/</loc>
+    <lastmod>2017-09-10T21:05:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://noellefavre.ch/</loc>
-    <lastmod>2017-09-10T21:05:02+02:00</lastmod>
+    <loc>http://noellefavre.ch/noellefavre/</loc>
+    <lastmod>2017-09-10T21:09:28+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
