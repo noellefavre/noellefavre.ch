@@ -1,12 +1,14 @@
 ---
-title: " Noëlle Favre"
+title: "Noëlle Favre"
 date: 2017-09-10T21:09:28+02:00
 featured_image: "/images/banner.jpg"
 type: page
-weight: 100
+weight: 120
 ---
 
-{{< figure src="/images/noelle_favre.jpg" title="Noëlle Favre" >}}
+# Noëlle Favre – Médiatrice SDM-FSM
+
+<img src="/images/noelle_favre.jpg" class="br-100 fr" style="width:40%; margin: -2vh -4vw 0.5em 0.5em;">
 
 Médiatrice diplômée de l'Institut Universitaire Kurt Bösch (DAS) en 2012, elle est membre de la Fédération Suisse des Associations de Médiation SDM-FSM. Elle a effectué durant 6 mois un stage au Bureau Médiation Santé du Canton de Vaud (BCMS).
 

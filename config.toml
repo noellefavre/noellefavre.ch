@@ -1,6 +1,6 @@
 baseURL = "http://noellefavre.ch/"
 languageCode = "fr-ch"
-title = "Noelle Favre - Entrer dans une démarche de médiation"
+title = "Noëlle Favre - Entrer dans une démarche de médiation"
 theme = "ananke"
 publishDir = "docs"
 

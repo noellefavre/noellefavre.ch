@@ -5,6 +5,9 @@ featured_image: "/images/banner.jpg"
 type: page
 weight: 300
 ---
+
+# Commencez une démarche de médiation
+
 Vous désirez entrer dans une démarche de médiation ? N’hésitez pas à me contacter pour obtenir des information complémentaires ou afin de fixer un premier rendez-vous.
 
 **Noëlle Favre**<br/>
