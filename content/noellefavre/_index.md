@@ -1,12 +1,13 @@
 ---
-title: "Noëlle Favre"
+title: "Noëlle Favre – Médiatrice SDM-FSM"
 date: 2017-09-10T21:09:28+02:00
 featured_image: "/images/banner.jpg"
 type: page
-weight: 120
+menu:
+  "main":
+    name: "Noëlle Favre"
+    weight: 120
 ---
-
-# Noëlle Favre – Médiatrice SDM-FSM
 
 <img src="/images/noelle_favre.jpg" class="br-100 fr" style="width:40%; margin: -2vh -4vw 0.5em 0.5em;">
 

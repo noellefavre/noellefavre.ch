@@ -1,15 +1,14 @@
 ---
-title: "Médiation"
+title: "Un accord durable et satisfaisant pour chacun"
 date: 2017-09-10T21:05:02+02:00
 featured_image: "/images/banner.jpg"
 type: page
 menu:
-  main: {}
+  "main":
+    name: "Médiation"
 weight: 100
 
 ---
-<h1 class="f-subheadline-l fw2 black-90 mb0 lh-title">Un accord durable et satisfaisant pour chacun</h1>
-
 La médiation, proposée par Noëlle Favre, Médiatrice diplômée de l'Institut Universitaire Kurt Bösch, s'adresse à toutes personnes désireuses d’entrer dans une démarche pour désamorcer ou traiter un conflit dans le cadre du couple (crise, séparation), de la famille (enfants, héritiers), de relations inter-générationnelles, du voisinage, de relations de travail.
 
 La médiation est un processus volontairement accepté par les deux parties. Elle s'adresse à toutes personnes désireuses de désamorcer ou de traiter un conflit.

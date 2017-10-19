@@ -1,12 +1,13 @@
 ---
-title: "Contact"
+title: "Commencez une démarche de médiation"
 date: 2017-09-10T21:09:33+02:00
 featured_image: "/images/banner.jpg"
 type: page
-weight: 300
+menu:
+  "main":
+    name: "Contact"
+    weight: 300
 ---
-
-# Commencez une démarche de médiation
 
 Vous désirez entrer dans une démarche de médiation ? N’hésitez pas à me contacter pour obtenir des information complémentaires ou afin de fixer un premier rendez-vous.
 
