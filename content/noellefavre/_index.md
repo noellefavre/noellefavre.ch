@@ -11,7 +11,7 @@ menu:
 
 <img src="/images/noelle_favre.jpg" class="br-100 fr" style="width:40%; margin: -2vh -4vw 0.5em 0.5em;">
 
-Médiatrice diplômée de l'Institut Universitaire Kurt Bösch (DAS) en 2012, elle est membre de la Fédération Suisse des Associations de Médiation SDM-FSM. Elle a effectué durant 6 mois un stage au Bureau Médiation Santé du Canton de Vaud (BCMS).
+Médiatrice diplômée de l'Institut Universitaire Kurt Bösch (DAS) en 2012, Noëlle Favre est membre de la [Fédération Suisse des Associations de Médiation SDM-FSM](http://www.swiss-mediators.org/cms2/fr/mediation/quest-ce-que-la-mediation/). Elle a effectué durant 6 mois un stage au Bureau Médiation Santé du Canton de Vaud (BCMS).
 
 Un diplôme d’Intervenant en dépendance dispensé par l’Université de Montréal lui permet d’élargir de manière efficace son savoir-faire, ainsi que la connaissance du réseau de Suisse Romande dans ce domaine.
 Des formations en relation d’aide, en Accompagnement Pastoral Clinique (CPT) et en accompagnement spirituel témoignent de sa volonté d’offrir aux personnes qui la sollicitent des prestations étendues et de qualité.
