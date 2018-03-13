@@ -29,4 +29,4 @@ Tout ce qui se dit en entretien, ainsi que tout document s'y rapportant, reste s
 150.-/h pour les individuels<br/>
 220.-/h pour les entreprises
 
-[Entrer dans une démarche de médiation](./contact)
+<a href="./contact" class="f4 link dim ph4 shadow-3 pv2 dib white bg-blue br3">Entrer dans une démarche de médiation</a>
