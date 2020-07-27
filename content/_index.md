@@ -13,7 +13,7 @@ La médiation, proposée par [Noëlle Favre](/noellefavre), Médiatrice diplôm�
 
 ## Désamorcer et traiter un conflit
 
-La médiation est un processus volontairement accepté par les deux parties. Le médiateur s'engage à respecter les règles déontologiques de la [Fédération Suisse des Associations de Médiation](http://www.swissmediators.org/cms2/fr/mediation/regles-en-mediation) (SDM-FSM).
+La médiation est un processus volontairement accepté par les deux parties. Le médiateur s'engage à respecter les règles déontologiques de la [Fédération Suisse des Associations de Médiation](https://www.mediation-ch.org/cms3/fr/) (SDM-FSM).
 
 La tâche du médiateur est d'aider à parvenir à une entente équitable pour chacun afin de régler le litige. Le médiateur a un rôle de facilitateur, et non de juge, d’arbitre, de conseil ou de censeur. Il est en outre tenu aux principes d'indépendance, d'impartialité, de neutralité et de confidentialité. Il aide par différents moyens, dont son expérience, à favoriser la communication en vue de résoudre le conflit. Il n’est pas tenu par des obligations de résultat.
 
