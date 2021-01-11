@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://noellefavre.ch/</loc>
+    <loc>https://noellefavre.ch/</loc>
     <lastmod>2017-09-10T21:05:02+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://noellefavre.ch/contact/</loc>
+    <loc>https://noellefavre.ch/contact/</loc>
     <lastmod>2017-09-10T21:09:33+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://noellefavre.ch/noellefavre/</loc>
+    <loc>https://noellefavre.ch/noellefavre/</loc>
     <lastmod>2017-09-10T21:09:28+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://noellefavre.ch/categories/</loc>
+    <loc>https://noellefavre.ch/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://noellefavre.ch/tags/</loc>
+    <loc>https://noellefavre.ch/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

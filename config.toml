@@ -1,4 +1,4 @@
-baseURL = "http://noellefavre.ch/"
+baseURL = "https://noellefavre.ch/"
 languageCode = "fr-ch"
 title = "Noëlle Favre - Médiation"
 theme = "ananke"
