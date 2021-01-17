@@ -19,6 +19,4 @@ Infirmière de liaison dans un hôpital pendant plus de 16 ans, elle a développ
 
 Infirmière en soins généraux, elle a exercé en milieu hospitalier. Son activité s’est étendue par la suite en tant que formatrice d'adultes, responsable de formation dans le cadre de la Croix Rouge Suisse pour laquelle elle a créé, animé et organisé des cours et des conférences dans la région de la Côte vaudoise.
 
-Elle est intervenante dans le cadre du groupe [Option-Conseil](http://www.option-conseil.ch/).
-
 <a href="/contact" class="f4 link dim ph4 shadow-3 pv2 dib white bg-blue br3" style="color:white!important;">Prendre contact</a>

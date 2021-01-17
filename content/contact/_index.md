@@ -20,6 +20,6 @@ Médiatrice SDM-FSM<br/>
 
 <a href="tel:0041797210937" class="f4 link dim ph4 shadow-3 pv2 mb1 dib white bg-blue br3" style="color:white!important;">+41 79 721 09 37</a>
 
-**Option-conseil**<br/>
+**Bureau de consultation**<br/>
 <a href="https://goo.gl/maps/F7BhSk6zZgo">Avenue Ruchonnet 2<br/>
 1003 Lausanne</a>
