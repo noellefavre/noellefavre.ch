@@ -1,17 +1,16 @@
 ---
-title: "Un accord durable et satisfaisant pour chacun"
-date: 2017-09-10T21:05:02+02:00
-aliases: ['/contact/','/noellefavre/']
+title: Un accord durable et satisfaisant pour chacun
+date: 2017-09-10T21:05:02.000+02:00
+aliases:
+- "/contact/"
+- "/noellefavre/"
+
 ---
-
 # Vous souhaitez traiter un conflit ?
-
 
 La médiation, proposée par [Noëlle Favre](#noëlle-favre), Médiatrice diplômée de l’Institut Universitaire Kurt Bösch, s’adresse à toutes personnes désireuses d’entrer dans une démarche pour désamorcer ou traiter un conflit dans le cadre du couple (crise, séparation), de la famille (enfants, héritiers), de relations inter-générationnelles, de voisinage, de relations de travail, d’associations…
 
-
 # Un accord durable et satisfaisant pour chacun
-
 
 La médiation est un processus volontairement accepté par les deux parties. Le médiateur s’engage à respecter les règles déontologiques de la [Fédération Suisse des Associations de Médiation](https://www.mediation-ch.org/cms3/fr/) (SDM-FSM).
 
@@ -28,11 +27,8 @@ Tout ce qui se dit en entretien, ainsi que tout document s’y rapportant, reste
 <div class="box">
 
 # Commencez une démarche de médiation
-## Consultation à Aubonne ou Lausanne 
 
-## Tarifs
-150.-/h pour les individuels<br/>
-220.-/h pour les entreprises
+## Consultation à Aubonne ou Lausanne
 
 [Entrer dans une démarche de médiation](#contact)
 
@@ -40,15 +36,13 @@ Tout ce qui se dit en entretien, ainsi que tout document s’y rapportant, reste
 </div>
 </div>
 
-
 # Noëlle Favre
 
 Médiatrice diplômée de l’Institut Universitaire Kurt Bösch (DAS) en 2012, Noëlle Favre est membre de la [Fédération Suisse des Associations de Médiation](https://www.mediation-ch.org/cms3/fr/) (SDM-FSM).
 
-Un diplôme d’Intervenant en dépendances dispensé par l’Université de Montréal lui permet d’élargir de manière efficace son savoir-faire. Des formations en relation d’aide et en accompagnement témoignent de sa volonté d’offrir aux personnes qui la sollicitent des prestations étendues et de qualité. 
+Un diplôme d’Intervenant en dépendances dispensé par l’Université de Montréal lui permet d’élargir de manière efficace son savoir-faire. Des formations en relation d’aide et en accompagnement témoignent de sa volonté d’offrir aux personnes qui la sollicitent des prestations étendues et de qualité.
 
 Son expérience professionnelle en milieu hospitalier et en tant que formatrice d’adultes, lui a permis de développer des compétences reconnues notamment dans l’animation de réseaux pluridisciplinaires.
-
 
 <div class="container-full image-full">
 
@@ -66,6 +60,8 @@ Médiatrice FSM<br/>
 [Route du Moulin Martinet 1<br/>
 1175 Lavigny](https://goo.gl/maps/VRQFDNQzURuz6VTu6)
 
+[noelle.favre@gmail.com](mailto:noelle.favre@gmail.com)<br/> [+41 79 721 09 37](tel:0041797210937)<br/> [LinkedIn](https://www.linkedin.com/in/no%C3%ABlle-favre-durand-gasselin-26262842/?ppe=1)
+
 ## Consultation
 
 <div class="container-full">
@@ -74,9 +70,9 @@ Médiatrice FSM<br/>
 
 ### Lausanne et Aubonne
 
-[noelle.favre@gmail.com](mailto:noelle.favre@gmail.com)<br/>
-[+41 79 721 09 37](tel:0041797210937)<br/>
-[LinkedIn](https://www.linkedin.com/in/no%C3%ABlle-favre-durand-gasselin-26262842/?ppe=1)
+### Tarifs
+
+150\.-/h pour les individuels<br/> 220.-/h pour les entreprises
 
 </div>
 <div class="box map">
