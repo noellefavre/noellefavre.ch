@@ -8,7 +8,7 @@ aliases:
 ---
 # Vous souhaitez traiter un conflit ?
 
-La médiation, proposée par [Noëlle Favre](#noëlle-favre), Médiatrice assermentée par le Tribunal cantonal vaudois, diplômée de l’Institut Universitaire Kurt Bösch, s’adresse à toutes personnes désireuses d’entrer dans une démarche pour désamorcer ou traiter un conflit dans le cadre du couple (crise, séparation), de la famille (enfants, héritiers), de relations inter-générationnelles, de voisinage, de relations de travail, d’associations…
+La médiation, proposée par [Noëlle Favre](#noëlle-favre), Médiatrice agréée par le Tribunal cantonal vaudois, diplômée de l’Institut Universitaire Kurt Bösch, s’adresse à toutes personnes désireuses d’entrer dans une démarche pour désamorcer ou traiter un conflit dans le cadre du couple (crise, séparation), de la famille (enfants, héritiers), de relations inter-générationnelles, de voisinage, de relations de travail, d’associations…
 
 # Un accord durable et satisfaisant pour chacun
 
@@ -38,7 +38,7 @@ Tout ce qui se dit en entretien, ainsi que tout document s’y rapportant, reste
 
 # Noëlle Favre
 
-Médiatrice assermentée par le Tribunaux cantonal vaudois, diplômée de l’Institut Universitaire Kurt Bösch (DAS) en 2012, Noëlle Favre est membre de la [Fédération Suisse des Associations de Médiation](https://www.mediation-ch.org/cms3/fr/) (SDM-FSM).
+Médiatrice agréée par le Tribunal cantonal vaudois, diplômée de l’Institut Universitaire Kurt Bösch (DAS) en 2012, Noëlle Favre est membre de la [Fédération Suisse des Associations de Médiation](https://www.mediation-ch.org/cms3/fr/) (SDM-FSM).
 
 Un diplôme d’Intervenant en dépendances dispensé par l’Université de Montréal lui permet d’élargir de manière efficace son savoir-faire. Des formations en relation d’aide et en accompagnement témoignent de sa volonté d’offrir aux personnes qui la sollicitent des prestations étendues et de qualité.
 
