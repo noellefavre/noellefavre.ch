@@ -8,7 +8,7 @@ aliases:
 ---
 # Vous souhaitez traiter un conflit ?
 
-La médiation, proposée par [Noëlle Favre](#noëlle-favre), Médiatrice diplômée de l’Institut Universitaire Kurt Bösch, s’adresse à toutes personnes désireuses d’entrer dans une démarche pour désamorcer ou traiter un conflit dans le cadre du couple (crise, séparation), de la famille (enfants, héritiers), de relations inter-générationnelles, de voisinage, de relations de travail, d’associations…
+La médiation, proposée par [Noëlle Favre](#noëlle-favre), Médiatrice assermentée par les Tribunaux cantonaux vaudois, diplômée de l’Institut Universitaire Kurt Bösch, s’adresse à toutes personnes désireuses d’entrer dans une démarche pour désamorcer ou traiter un conflit dans le cadre du couple (crise, séparation), de la famille (enfants, héritiers), de relations inter-générationnelles, de voisinage, de relations de travail, d’associations…
 
 # Un accord durable et satisfaisant pour chacun
 
