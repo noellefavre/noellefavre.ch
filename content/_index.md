@@ -8,7 +8,7 @@ aliases:
 ---
 # Vous souhaitez traiter un conflit ?
 
-La médiation, proposée par [Noëlle Favre](#noëlle-favre), Médiateure assermentée, agréée par le Tribunal cantonal vaudois, s’adresse à toutes personnes désireuses d’entrer dans une démarche pour désamorcer ou traiter un conflit dans le cadre du couple (crise, séparation), de la famille (enfants, héritiers), de relations inter-générationnelles, de voisinage, de relations de travail, d’associations…
+La médiation, proposée par [Noëlle Favre](#noëlle-favre), Médiatrice assermentée, agréée par le Tribunal cantonal vaudois, s’adresse à toutes personnes désireuses d’entrer dans une démarche pour désamorcer ou traiter un conflit dans le cadre du couple (crise, séparation), de la famille (enfants, héritiers), de relations inter-générationnelles, de voisinage, de relations de travail, d’associations…
 
 # Un accord durable et satisfaisant pour chacun
 
@@ -38,7 +38,7 @@ Tout ce qui se dit en entretien, ainsi que tout document s’y rapportant, reste
 
 # Noëlle Favre
 
-Médiateure assermentée, agréée par le Tribunal cantonal vaudois, diplômée de l’Institut Universitaire Kurt Bösch (DAS) en 2012, Noëlle Favre est membre de la [Fédération Suisse des Associations de Médiation](https://www.mediation-ch.org/cms3/fr/) (SDM-FSM).
+Médiatrice assermentée, agréée par le Tribunal cantonal vaudois, diplômée de l’Institut Universitaire Kurt Bösch (DAS) en 2012, Noëlle Favre est membre de la [Fédération Suisse des Associations de Médiation](https://www.mediation-ch.org/cms3/fr/) (SDM-FSM).
 
 Un diplôme d’Intervenant en dépendances dispensé par l’Université de Montréal lui permet d’élargir de manière efficace son savoir-faire. Des formations en relation d’aide et en accompagnement témoignent de sa volonté d’offrir aux personnes qui la sollicitent des prestations étendues et de qualité.
 
@@ -56,7 +56,7 @@ Vous désirez entrer dans une démarche de médiation ? N’hésitez pas à me c
 
 ### Noëlle Favre
 
-Médiateure FSM<br/> [Route du Moulin Martinet 1<br/>
+Médiatrice FSM<br/> [Route du Moulin Martinet 1<br/>
 1175 Lavigny](https://goo.gl/maps/VRQFDNQzURuz6VTu6)
 
 [noelle.favre@gmail.com](mailto:noelle.favre@gmail.com)<br/> [+41 79 721 09 37](tel:0041797210937)<br/> [LinkedIn](https://www.linkedin.com/in/no%C3%ABlle-favre-durand-gasselin-26262842/?ppe=1)
