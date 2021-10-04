@@ -6,9 +6,19 @@ aliases:
 - "/noellefavre/"
 
 ---
+
+<div class="container-full">
+<div class="teaser">
+<img src="/images/noelle_favre_web.jpg" alt="Noëlle Favre">
+<div>
+
 # Vous souhaitez traiter un conflit ?
 
 La médiation, proposée par [Noëlle Favre](#noëlle-favre), Médiatrice assermentée, agréée par le Tribunal cantonal vaudois, s’adresse à toutes personnes désireuses d’entrer dans une démarche pour désamorcer ou traiter un conflit dans le cadre du couple (crise, séparation), de la famille (enfants, héritiers), de relations inter-générationnelles, de voisinage, de relations de travail, d’associations…
+
+</div>
+</div>
+</div>
 
 # Un accord durable et satisfaisant pour chacun
 
@@ -21,6 +31,8 @@ La médiation se déroule par étapes. Dans un premier temps, une ou des rencont
 Lors de ces rencontres, le médiateur est le garant du processus et des règles d’échange. Les parties s’engagent quant à elles, à ne pas engager de procédure judiciaire pendant la durée de la médiation et laisser suspendue toute procédure en cours, à respecter le caractère discret de tout ce qui se passe en entretien, à jouer la transparence en communiquant toute information nécessaire à la médiation, à travailler dans un climat de respect et de coopération, à se conformer au cadre instauré par le médiateur, à être présent à chacune des rencontres.
 
 Tout ce qui se dit en entretien, ainsi que tout document s’y rapportant, reste strictement confidentiel.
+
+
 
 <div class="container-full">
 <div class="boxes">
@@ -50,7 +62,12 @@ Son expérience professionnelle en milieu hospitalier et en tant que formatrice 
 
 </div>
 
+<div class="contact">
+
+
 # Contact
+
+![Noëlle Favre - Médiatrice FSM](/images/noelle_favre_portrait.jpg)
 
 Vous désirez entrer dans une démarche de médiation ? N’hésitez pas à me contacter pour obtenir des informations complémentaires ou afin de fixer un premier rendez-vous.
 
@@ -60,6 +77,10 @@ Médiatrice FSM<br/> [Route du Moulin Martinet 1<br/>
 1175 Lavigny](https://goo.gl/maps/VRQFDNQzURuz6VTu6)
 
 [noelle.favre@gmail.com](mailto:noelle.favre@gmail.com)<br/> [+41 79 721 09 37](tel:0041797210937)<br/> [LinkedIn](https://www.linkedin.com/in/no%C3%ABlle-favre-durand-gasselin-26262842/?ppe=1)
+
+
+</div>
+
 
 ## Consultation
 
