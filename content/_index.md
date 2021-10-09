@@ -69,8 +69,7 @@ Vous désirez entrer dans une démarche de médiation ? N’hésitez pas à me c
 
 ### Noëlle Favre
 
-Médiatrice FSM<br/> [Route du Moulin Martinet 1<br/>
-1175 Lavigny](https://goo.gl/maps/VRQFDNQzURuz6VTu6)
+Médiatrice FSM<br/>
 
 info@noellefavre.ch<br/> [+41 79 721 09 37](tel:0041797210937)<br/> [LinkedIn](https://www.linkedin.com/in/no%C3%ABlle-favre-durand-gasselin-26262842/?ppe=1)
 
