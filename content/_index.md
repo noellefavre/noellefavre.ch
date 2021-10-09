@@ -6,7 +6,6 @@ aliases:
 - "/noellefavre/"
 
 ---
-
 <div class="container-full">
 <div class="teaser">
 <img src="/images/noelle_favre_web.jpg" alt="Noëlle Favre">
@@ -31,8 +30,6 @@ La médiation se déroule par étapes. Dans un premier temps, une ou des rencont
 Lors de ces rencontres, le médiateur est le garant du processus et des règles d’échange. Les parties s’engagent quant à elles, à ne pas engager de procédure judiciaire pendant la durée de la médiation et laisser suspendue toute procédure en cours, à respecter le caractère discret de tout ce qui se passe en entretien, à jouer la transparence en communiquant toute information nécessaire à la médiation, à travailler dans un climat de respect et de coopération, à se conformer au cadre instauré par le médiateur, à être présent à chacune des rencontres.
 
 Tout ce qui se dit en entretien, ainsi que tout document s’y rapportant, reste strictement confidentiel.
-
-
 
 <div class="container-full">
 <div class="boxes">
@@ -64,7 +61,6 @@ Son expérience professionnelle en milieu hospitalier et en tant que formatrice 
 
 <div class="contact">
 
-
 # Contact
 
 ![Noëlle Favre - Médiatrice FSM](/images/noelle_favre_portrait.jpg)
@@ -76,11 +72,9 @@ Vous désirez entrer dans une démarche de médiation ? N’hésitez pas à me c
 Médiatrice FSM<br/> [Route du Moulin Martinet 1<br/>
 1175 Lavigny](https://goo.gl/maps/VRQFDNQzURuz6VTu6)
 
-[noelle.favre@gmail.com](mailto:noelle.favre@gmail.com)<br/> [+41 79 721 09 37](tel:0041797210937)<br/> [LinkedIn](https://www.linkedin.com/in/no%C3%ABlle-favre-durand-gasselin-26262842/?ppe=1)
-
+info@noellefavre.ch<br/> [+41 79 721 09 37](tel:0041797210937)<br/> [LinkedIn](https://www.linkedin.com/in/no%C3%ABlle-favre-durand-gasselin-26262842/?ppe=1)
 
 </div>
-
 
 ## Consultation
 
