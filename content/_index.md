@@ -67,7 +67,7 @@ Son expérience professionnelle en milieu hospitalier et en tant que formatrice 
 
 ![Noëlle Favre - Médiatrice FSM](/images/noelle_favre_portrait.jpg)
 
-Vous désirez entrer dans une démarche de médiation ? N’hésitez pas à me contacter pour obtenir des informations complémentaires ou afin de fixer un premier rendez-vous.
+Vous désirez entrer dans une démarche de médiation ? N’hésitez pas à me contacter pour obtenir des informations complémentaires ou fixer un premier rendez-vous.
 
 ### Noëlle Favre
 
