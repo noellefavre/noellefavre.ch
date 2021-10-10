@@ -11,7 +11,7 @@ aliases:
 <img src="/images/noelle_favre_web.jpg" alt="Noëlle Favre">
 <div>
 
-# Vous souhaitez traiter un conflit ? Parlons en confiance.
+# Vous souhaitez traiter un conflit ? [Parlons en confiance](#noëlle-favre)
 
 La médiation, proposée par [Noëlle Favre](#noëlle-favre), Médiatrice assermentée, agréée par le Tribunal cantonal vaudois, s’adresse à toutes personnes désireuses d’entrer dans une démarche pour désamorcer ou traiter un conflit dans le cadre du couple (crise, séparation), de la famille (enfants, héritiers), de relations inter-générationnelles, de voisinage, de relations de travail, d’associations…
 
