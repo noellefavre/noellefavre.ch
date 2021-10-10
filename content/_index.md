@@ -11,7 +11,7 @@ aliases:
 <img src="/images/noelle_favre_web.jpg" alt="Noëlle Favre">
 <div>
 
-## [Parlons en confiance](#noëlle-favre)
+### [Parlons en confiance](#noëlle-favre)
 
 ### Vous souhaitez traiter un conflit ?
 
