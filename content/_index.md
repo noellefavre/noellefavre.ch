@@ -41,7 +41,7 @@ Tout ce qui se dit en entretien, ainsi que tout document s’y rapportant, reste
 
 ## Consultation à Aubonne ou Lausanne
 
-[Entrer dans une démarche de médiation](#contact)
+[Informations complémentaires](#contact)
 
 </div>
 </div>
