@@ -13,7 +13,7 @@ aliases:
 
 # Vous souhaitez traiter un conflit ?
 
-La médiation, proposée par [Noëlle Favre](#noëlle-favre), Médiatrice assermentée, agréée par le Tribunal cantonal vaudois, s’adresse à toutes personnes désireuses d’entrer dans une démarche pour désamorcer ou traiter un conflit dans le cadre du couple (crise, séparation), de la famille (enfants, héritiers), de relations inter-générationnelles, de voisinage, de relations de travail, d’associations 
+La médiation, proposée par [Noëlle Favre](#noëlle-favre), Médiatrice assermentée, agréée par le Tribunal cantonal vaudois, s’adresse à toutes personnes désireuses d’entrer dans une démarche pour désamorcer ou traiter un conflit dans le cadre du couple (crise, séparation), de la famille (enfants, héritiers), de relations inter-générationnelles, de voisinage, de relations de travail, d’associations.
 
 [Parlons en confiance](#noëlle-favre)
 
