@@ -27,8 +27,8 @@ La médiation est un processus volontairement accepté par les deux parties. Le 
 
 La tâche du médiateur est d’aider à parvenir à une entente équitable pour chacun afin de régler le litige. Le médiateur a un rôle de facilitateur, et non de juge, d’arbitre, de conseil ou de censeur. Il est en outre tenu aux principes d’indépendance, d’impartialité, de neutralité et de confidentialité. Il aide par différents moyens, dont son expérience, à favoriser la communication en vue de résoudre le conflit. Il n’est pas tenu par des obligations de résultat.
 
-<br>  
-<br>
+</br>  
+</br>
 
 # Un accord durable et satisfaisant pour chacun
 
@@ -41,6 +41,9 @@ Tout ce qui se dit en entretien, ainsi que tout document s’y rapportant, reste
 <div class="container-full">
 <div class="boxes">
 <div class="box">
+
+</br>  
+</br>
 
 # Commencez une démarche de médiation
 
