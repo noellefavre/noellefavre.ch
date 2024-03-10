@@ -59,7 +59,7 @@ Tout ce qui se dit en entretien, ainsi que tout document s’y rapportant, reste
 
 Médiatrice assermentée, agréée par le Tribunal cantonal vaudois, diplômée de l’Institut Universitaire Kurt Bösch (DAS) en 2012, Noëlle Favre est membre de la [Fédération Suisse des Associations de Médiation](https://www.mediation-ch.org/cms3/fr/) (SDM-FSM).
 
-Un diplôme d’Intervenant en dépendances dispensé par l’Université de Montréal lui permet d’élargir de manière efficace son savoir-faire. des formations en relation d’aide, en accompagnement et en débriefing de routine et de crise témoignent de sa volonté d’offrir aux personnes qui la sollicitent des prestations étendues et de qualité.
+Un diplôme d’Intervenant en dépendances dispensé par l’Université de Montréal lui permet d’élargir de manière efficace son savoir-faire. Des formations en relation d’aide, en accompagnement et en débriefing de routine et de crise témoignent de sa volonté d’offrir aux personnes qui la sollicitent des prestations étendues et de qualité.
 
 Son expérience professionnelle en milieu hospitalier et en tant que formatrice d’adultes, lui a permis de développer des compétences reconnues notamment dans l’animation de réseaux pluridisciplinaires.
 
