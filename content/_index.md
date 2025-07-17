@@ -100,7 +100,7 @@ info@noellefavre.ch<br/> [+41 79 721 09 37](tel:0041797210937)<br/> [LinkedIn](h
 </div>
 <div class="box map">
 
-<img src="https://maps.googleapis.com/maps/api/staticmap?center=monnaz&zoom=11&scale=1&size=800x400&maptype=roadmap&key=AIzaSyB7WmbGqFkkJ9Nl-58evxfLgAVDPZ8qcfE&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7CLavignye"/>
+<img src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s-circle+285A98(6.404750008101,46.500519328097)/6.404750008101,46.500519328097,11.5,0,0/800x500@2x?attribution=true&logo=true&access_token=pk.eyJ1IjoienVmcmllZGVuIiwiYSI6ImNtZDd1MDZwdzBtaWgyanIwc2QxdDIzbWEifQ.awdU5PTRewZq63DkxhXr8A"/>
 
 </div>
 </div>
